@@ -1,9 +1,9 @@
 [
-	"Cinema",
-	"Petanque",
-	"Fitness",
-	"League Of Legend",
-	"Basket",
-	"Shopping",
-	"Programmation"
+	{ "emoji": "🎬", "label": "Cinema" },
+	{ "emoji": "⚾", "label": "Petanque" },
+	{ "emoji": "💪", "label": "Fitness" },
+	{ "emoji": "🎮", "label": "League Of Legends" },
+	{ "emoji": "🏀", "label": "Basket" },
+	{ "emoji": "🛍️", "label": "Shopping" },
+	{ "emoji": "💻", "label": "Programmation" }
 ]
